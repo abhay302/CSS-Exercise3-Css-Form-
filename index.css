@@ -1,0 +1,93 @@
+.header {
+  border-bottom: 2px solid #db2927;
+  padding-bottom: 5px;
+}
+
+.header #top_text {
+  font-family: tahoma;
+  font-size: 13px;
+  color: black;
+  float: right;
+  position: relative;
+  top: 50px;
+  right: ;
+  bottom: ;
+  display: ;
+}
+
+.contact_details {
+  color: #045198;
+}
+
+
+table {
+  background-color: #ececec;
+  width: 500px;
+  border-color: #bcbcbc;
+  padding: 20px 30px 20px 30px;
+  margin-top: 20px;
+
+}
+
+caption {
+  font-family: tahoma;
+  font-size: 18px;
+  color: #2c286d;
+  text-align: left;
+}
+
+.label {
+  font-family: tahoma;
+  font-size: 14px;
+  color: black;
+  margin-right: 20px;
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+  background-color: ;
+}
+
+.inputs {
+  background-color: white;
+  border-color: #b9b9b9;
+  width: 360px;
+  height: 25px;
+}
+
+.gender {
+  font-family: tahoma;
+  font-size: 13px;
+  color: #6f6f6f;
+}
+
+input[type=date] {
+  width: 110px;
+  font-family: tahoma;
+
+}
+
+textarea {
+  background-color: white;
+  border-color: #b9b9b9;
+  width: 360px;
+  height: 135px;
+}
+
+input[type=submit] {
+  background-color: #dc2927;
+  border-color: #a10200;
+  width: 130px;
+  height: 32px;
+  text-align: center;
+  font-family: tahoma;
+  font-size: 14px;
+  color: white;
+}
+
+select {
+  width: 110px;
+}
+
+td {
+  vertical-align: top;
+}
